@@ -1,0 +1,42 @@
+body{
+    background-color: #454a4b;
+}
+.titulo1{
+    font-size: 2cm;
+    color: #ffffff;
+}
+.paragrafo1{
+    font-size: 22px;
+    color: #ffffff;
+}
+
+a {
+    font-size: 40px;
+    color: #ffffff;
+}
+.center {
+    text-align: center;
+}
+
+img{
+    width: 750px;
+    height: 750spx;
+}
+.Kyans{
+    color: #ffffff;
+    font-size: 50px;
+    text-align: centerSSSS;
+    font-family: 'arial';
+}
+.marcas{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 4px solid #4e4e4e;
+}
+ 
+.CREDITOS {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(107, 180, 248);
+    font-size: 35px;
+}
